@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264788665090",
+    "project_id": "policealertdb",
+    "storage_bucket": "policealertdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264788665090:android:0d0d08ce1a89827d92181b",
+        "android_client_info": {
+          "package_name": "com.example.signup_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264788665090-sl2hribq2qeo96t7u6ssrpibgeqkcdim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwgdHpWj3VI4qOoj8pSsyrz-wKi4iBjAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264788665090-sl2hribq2qeo96t7u6ssrpibgeqkcdim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
